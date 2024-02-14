@@ -22,13 +22,6 @@ function todoSection() {
           <TodoItems />
           <TodoItems />
           <TodoItems />
-          <TodoItems />
-          <TodoItems />
-          <TodoItems />
-          <TodoItems />
-          <TodoItems />
-          <TodoItems />
-          <TodoItems />
         </ul>
       </div>
     </section>

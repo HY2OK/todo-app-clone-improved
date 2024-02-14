@@ -1,5 +1,5 @@
 import { MdOutlineDeleteOutline } from 'react-icons/md'
-import { RiCheckboxBlankCircleLine } from 'react-icons/ri'
+import { RiCheckboxBlankCircleLine, RiCheckboxCircleFill } from 'react-icons/ri'
 
 function TodoItems() {
   return (
